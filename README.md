@@ -48,6 +48,7 @@ node index.js
 
 ### Frontend
 
-```flutter pub get
+```bash
+flutter pub get
 flutter run
 ```

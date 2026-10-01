@@ -44,6 +44,9 @@ Configure your MongoDb before starting backend
 ```bash
 npm install
 node index.js
-##Frontend
+```
+
+### Frontend
+
 flutter pub get
 flutter run

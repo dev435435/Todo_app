@@ -22,19 +22,19 @@ ToDo App – Flutter + Node.js + MongoDB  A full-stack ToDo application built wi
 ## 📸 Screenshots
 
 ### Register Page
-![Register Page](screenshots/register.png)
+![Register Page](screenshot/register.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshot/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Add Todo
-![Add Todo](screenshots/add-todo.png)
+![Add Todo](screenshot/add-todo.png)
 
 ### Delete Todo
-![Delete Todo](screenshots/delete.png)
+![Delete Todo](screenshot/delete.png)
 
 ## ⚙️ Setup
 Configure your MongoDb before starting backend
